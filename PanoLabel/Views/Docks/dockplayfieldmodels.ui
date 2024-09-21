@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>DockPlayfieldModels</class>
+ <widget class="QDockWidget" name="DockPlayfieldModels">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>385</width>
+    <height>299</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Playfield Models</string>
+  </property>
+  <widget class="QWidget" name="dockWidgetContents"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
