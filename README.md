@@ -4,6 +4,17 @@ This is the official repository of the Calib360 dataset. It contains the
 source code of the labeling tool, as well as the exported training and validation
 sets used in our paper - Football Playing Field Registration Using Distance Maps
 
+Download the annotated dataset from:
+
+| Item | Size |
+|--|--|
+| [calib360-annotated.tar.gz](https://vggnas.fiit.stuba.sk/download/datasets/calib360/calib360-annotated.tar.gz) | 1.9 GB |
+
+Extract the archive into your home folder, so that labeling tool can find the archive content in `~/.Playfield`.
+
+
+
+
 
 The exported dataset is stored in a Squash-FS archive:
 
